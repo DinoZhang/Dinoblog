@@ -4,6 +4,10 @@
       <div class="right">
         <?php echo get_option('blog_stats'); ?>　<?php echo get_option('blog_copyright'); ?></div>
     </div>
+	<div class="right"> <script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F929d39cf5136f9b0b3fa586cbadf7d59' type='text/javascript'%3E%3C/script%3E"));
+</script>Copyright © <a href="http://www.youzhuti.com" target="_blank">Dino</a> All Rights Reserved.</div>
   </div>
   <a class="backtop" href=""></a>
 </div>
