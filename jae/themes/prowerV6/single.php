@@ -27,8 +27,6 @@
 					<?php the_tags((' '), ', '); ?>
 				</footer>
 			<?php endif; ?>
-			<div class="adbanner"><a title="web design inspiraiton" href="http://reeoo.com" target="_blank"><img src="http://media.reeoo.com/reeoo_728.jpg" alt="reeoo.com - web design inspiration" width="728" height="90" /></a></div>
-		</div>
 	<?php endwhile; ?>
 	<?php comments_template(); ?>
 </div>
