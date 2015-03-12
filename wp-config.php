@@ -24,7 +24,7 @@ define('DB_USER', 'qOnMwxNB');
 define('DB_PASSWORD', 'AMU5ZE89EJJi');
 
 /** MySQL主机 */
-define('DB_HOST', 'mysql.jae.jd.com');
+define('DB_HOST', '10.0.16.16:4066');
 
 /** 创建数据表时默认的文字编码 */
 define('DB_CHARSET', 'utf8');
