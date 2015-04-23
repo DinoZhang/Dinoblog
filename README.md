@@ -1,2 +1,3 @@
-jd_php_wordpress3.9.1
+Dinoblog
 ====
+基于wordpress
